@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "814493132371",
+    "firebase_url": "https://smartrailgate-default-rtdb.firebaseio.com",
+    "project_id": "smartrailgate",
+    "storage_bucket": "smartrailgate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814493132371:android:40c3d0dafcb2d535b5c8a6",
+        "android_client_info": {
+          "package_name": "com.blogspot.rajbtc.smartrailgate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814493132371-vnametgl0aiecmvo0q3o7ucp727cthig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ4ja8kEOuR6-OMFNBvXxwzPtIxNVwJfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814493132371-vnametgl0aiecmvo0q3o7ucp727cthig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
